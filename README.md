@@ -11,11 +11,11 @@
 <br/>
 <br/>
 
-##### I have used the opengsn implementation of RelayHub and Forwarder contracts and imported them im my impementation of Paymaster
+I have used the opengsn implementation of RelayHub and Forwarder contracts and imported them im my impementation of Paymaster
 contract and Target contract(NFT contract)
 
 #### RelayHUb: 0x6650d69225CA31049DB7Bd210aE4671c0B1ca132
 #### Forwarder: 0x83A54884bE4657706785D7309cf46B58FE5f6e8a
 <br/><br/>
-####Logic: "One address can only have one meta transaction"
+#### Logic: "One address can only have one meta transaction"
 ##### I have implmented this logic at the target contract itself i.e. NFT contract
