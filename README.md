@@ -1,8 +1,11 @@
 Rinkby Network
 
 Deploying contracts with the account: 0x01b517ADbc9b94aAAA7f0C66baef80d436EE0065
+
 Account balance: 11155081032875849390
+
 Paymaster Address:  0xF7f7cf7AA77fA95585722B21dF738e021e3D5ca2
+
 NFT address 0x78A4e644fee96f0a054E11791aEeec27143E8438
 
 
