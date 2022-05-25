@@ -11,7 +11,7 @@
 <br/>
 <br/>
 
-I have used the opengsn implementation of RelayHub and Forwarder contracts and imported them im my impementation of Paymaster
+I have used the opengsn implementation of RelayHub and Forwarder contracts and imported them in my impementation of Paymaster
 contract and Target contract(NFT contract)
 
 #### RelayHUb: 0x6650d69225CA31049DB7Bd210aE4671c0B1ca132
